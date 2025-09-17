@@ -13,9 +13,7 @@
 
 ---
 
-## Quick Start
-
-#### Requirements
+## Requirements
 
 - Python 3.7+
 - Flask
