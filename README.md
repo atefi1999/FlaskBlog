@@ -15,7 +15,7 @@
 
 ## 🚀 Quick Start
 
-### Requirements
+#### Requirements
 
 - Python 3.7+
 - Flask
@@ -54,7 +54,7 @@ http://127.0.0.1:5000/
 
 ## 🎥 Demo
 
-<img  alt="screenshot" src="https://github.com/user-attachments/assets/45f0400d-8d00-48f6-8930-6fe61da3da84"  width="35%" />
+<img  alt="screenshot" src="https://github.com/user-attachments/assets/45f0400d-8d00-48f6-8930-6fe61da3da84"  width="40%" />
 
 ---
 
