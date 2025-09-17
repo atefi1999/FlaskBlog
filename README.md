@@ -1,4 +1,4 @@
-# 📖 A Simple Flask Blog
+# 📖 My Simple Flask Blog
 
 ### A simple blog built with **Flask** that allows you to add and view text posts.  
 
@@ -50,6 +50,11 @@ python flask_blog.py
 http://127.0.0.1:5000/
 ```
 -->
+---
+
+## 🎥 Demo
+
+<img  alt="screenshot" src="https://github.com/user-attachments/assets/45f0400d-8d00-48f6-8930-6fe61da3da84"  width="35%" />
 
 ---
 
@@ -76,3 +81,4 @@ http://127.0.0.1:5000/
 - This project does not use a database; posts are stored in memory.
 - Posts will be lost when the server is restarted.
 - Perfect for learning the basics of Flask and forms.
+
