@@ -1,6 +1,6 @@
 # 📖 A Simple Flask Blog
 
-A simple blog built with **Flask** that allows you to add and view text posts.  
+### A simple blog built with **Flask** that allows you to add and view text posts.  
 
 ---
 
